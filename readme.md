@@ -1,7 +1,5 @@
 # Learn Git and Github
 
-```
-javascript
-console.log('Hello World!');
-
+```javascript
+console.log("Hello World!");
 ```
